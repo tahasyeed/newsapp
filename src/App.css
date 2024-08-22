@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+#pill{
+  position: relative;
+  font-size: 9px;
+  left: 8px;
+  bottom: 3px;
+}
